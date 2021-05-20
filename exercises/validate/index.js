@@ -7,4 +7,7 @@
 
 function validate(node, min = null, max = null) {}
 
+
+// max of left should less than the min of right or root. 
+
 module.exports = validate;
