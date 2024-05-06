@@ -33,7 +33,7 @@
 // }
 
 // memoization solution 
-
+// just a test on new computer
 function memoize(fn) {
   const cache ={};
 
