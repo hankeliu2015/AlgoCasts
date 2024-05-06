@@ -34,6 +34,7 @@
 
 // memoization solution 
 // just a test on new computer
+// just a test on new computer 2
 function memoize(fn) {
   const cache ={};
 
